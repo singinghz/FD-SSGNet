@@ -6,7 +6,7 @@ Hello! Thank you for your interest in my research paper. I am currently refactor
 ## 图片展示
 
 ### 图片1
-！(images/SQM.png)
+!(images/SQM.png)
 
 ### 图片2
-！(images/structure.png)
+!(images/structure.png)
