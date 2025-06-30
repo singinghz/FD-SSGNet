@@ -4,9 +4,8 @@ Hello! Thank you for your interest in my research paper. I am currently refactor
 
 
 ## 图片展示
-
 ### 图片1
-!(images/SQM.png)
+![描述1](images/SQM.png)
 
 ### 图片2
-!(images/structure.png)
+![描述2](images/structure.png)
