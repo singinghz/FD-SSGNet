@@ -11,4 +11,11 @@ Hello! Thank you for your interest in my research paper. I am currently refactor
 
 ![描述1](images/SQM.png)
 
+### CompareSOTA_Synapse
+![描述2](images/CompareSOTA_Synapse.png)
+
+### CompareSOTA_ACDC
+
+![描述1](images/CompareSOTA_ACDC.png)
+
 
